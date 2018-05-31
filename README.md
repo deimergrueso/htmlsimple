@@ -1,2 +1,2 @@
-# phpsimple
-Pagina basica en PHP para pruebas
+# htmlsimple
+Pagina basica en html para pruebas
